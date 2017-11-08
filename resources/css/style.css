@@ -41,9 +41,12 @@ p {
 .pfoot {
   text-align:left;
   font-size: 11px;
+  display:inline-block;
 }
 .hfoot {
   text-align: left;
   font-size: 23px;
+  font-weight: normal;
   text-decoration-line: underline;
+  display:inline-block;
 }
